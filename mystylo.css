@@ -1,0 +1,32 @@
+
+.img-responsive{
+	max-width: 100%;
+}
+.nav{
+	top: 0;
+}
+.titulo{
+	margin-top: 60px;
+	margin-bottom: 10px;
+	font-size: 5em;
+	text-align: center;
+	font-family: "Dancing Script"
+}
+#banner{
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+.nosotros p{
+	text-align: justify;
+}
+.footer{
+	padding-top: 10px;
+	background-color: silver;
+}
+.formulario{
+	margin-left: 10px;
+}
+body{
+	background-color:  #00ff66;
+}
+
